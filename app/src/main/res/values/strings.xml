@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">View Binding Adapter Recycler View</string>
+    <string name="hello_my_fragment">HELLO MY FRAGMENT</string>
+    <string name="open_fragment">OPEN FRAGMENT</string>
+</resources>
